@@ -1,2 +1,2 @@
-# hassio-addons
+# hass-addons
 Home Assistant Add-ons
